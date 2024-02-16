@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Annika86/Annika86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 👩‍💻 I'm a Golang Developer, Blogger and Scuba Diver
+* 🌱 I'm currently improving my skills in Web Development with the focus on backend
+* 🔭 I'm also interested in Machine Learning in terms of Deep Learning. Currently I am training my first deep neural networks.
+* ✍️ I'm writing about Female Empowerment in Web Development and how to change your career
+* 💬 Ask me about Career Change, Coding Bootcamps or technical questions about Go and Web Development
+* 😄 Pronouns: she/her
+* ⚡ Fun fact: One day I would like to have a dachshund
 
-Here are some ideas to get you started:
+How to reach me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annika-heuler-kottmann-5142b052/)
+
+Coding Anni
+
+[![coding.anni](https://coding-anni.de/wp-content/uploads/2022/02/cropped-Coding-Anni-Logo_Favicon_200px-32x32.png)](https://coding-anni.de)
